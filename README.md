@@ -47,14 +47,15 @@ npm install / yarn/install
 4. Project Structure
 
    ```sh
-
    src/assets
-  components/                          # Reusable UI components
-  components/Navbar.jsx                # Contains the reusable Nav-bar section
-  components/Sidepane/Sidebar.jsx      # Contains the Sidebar including the static one and collapsable side bar too
-  components/Hero_section/Hero_img.jsx # Contains the Hero/Main section of the page including the image and image_video and image_footer section too 
-  App.jsx                              # Root component
-  index.jsx                            # Entry point of the application
+  
+   components/                          # Reusable UI components
+   components/Navbar.jsx                # Contains the reusable Nav-bar section
+   components/Sidepane/Sidebar.jsx      # Contains the Sidebar including the static one and collapsable side bar too
+   components/Hero_section/Hero_img.jsx # Contains the Hero/Main section of the page including the image and image_video and image_footer section too 
+   App.jsx                              # Root component
+   index.jsx                            # Entry point of the application
 
 ```
+
 
